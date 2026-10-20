@@ -7,7 +7,7 @@ Block: 2
 Status: Planned
 ---
 
-**Update — 2026-10-20:** Added chest and arm volume to suit 3–4 training hours per week while retaining pull-up/core priorities. Use available pull-up assistance until a band is obtained; the routine CSVs, including the revised optional D, are the current prescription.
+**Update — 2026-10-20:** Added chest and arm volume to suit 3–4 training hours per week while retaining pull-up/core priorities. 
 
 Outcomes:
 - To be recorded at the end of the block.
